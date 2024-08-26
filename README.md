@@ -1,7 +1,7 @@
 Olá! Eu sou o Rick Marck S.
 - 📚 Bacharelado completo em Sistemas de Informação (2024)
-- 📖 Análise e Desenvolvimento de Software 1 Período
-- 🔭 Procurando Estágio em Desenvolvimento
+- 📖 Análise e Desenvolvimento de Software 1º Período
+- 🔭 Procurando Estágio em QA
 - 🌱 Estou Aprendendo Python
 - ⚡ Eu Gosto de Xadrez
 
@@ -16,7 +16,6 @@ Olá! Eu sou o Rick Marck S.
 
  
   <div> 
-  <a href="https://www.instagram.com/rickkmarckk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rickmarck7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rick-marck-do-nascimento-silva-36b1ab204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
