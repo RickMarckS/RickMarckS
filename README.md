@@ -1,6 +1,5 @@
 Olá! Eu sou o Rick Marck S.
-- 📚 Bacharelado completo em Sistemas de Informação (2024)
-- 📖 Análise e Desenvolvimento de Software 2º Período
+- 📖 Análise e Desenvolvimento de Software 3º Período
 - 🔭 Procurando Estágio em QA
 - 🌱 Estou Aprendendo Python
 - ⚡ Eu Gosto de Xadrez
