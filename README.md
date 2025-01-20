@@ -1,6 +1,6 @@
 Olá! Eu sou o Rick Marck S.
 - 📖 Análise e Desenvolvimento de Software 3º Período
-- 🔭 Procurando Estágio em QA
+- 🔭 Procurando Estágio
 - 🌱 Estou Aprendendo Python
 - ⚡ Eu Gosto de Xadrez
 
